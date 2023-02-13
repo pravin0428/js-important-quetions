@@ -238,7 +238,18 @@ they do not have their own this value to bind.
         // - bigint
             
             
-        // - event loop
+       /* event loop : 
+       event loop basically meance the whole working of 
+       javascript code 
+
+        there are some important section thought which js code 
+        generally go through
+   1)call stack
+   2)online api
+   3)task queque
+   
+
+       */  
             
             
         // - `this` keyword explained in short
