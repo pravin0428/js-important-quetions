@@ -247,7 +247,10 @@ they do not have their own this value to bind.
         // - Object methods defineProperty, hasOwnProperty
             
             
-        // - fetch vs axios
+         /*  fetch vs axios
+           fetch                        axios
+           1)
+         */  
             
             
         // - SetTimeout - Amazon question Approach 1
