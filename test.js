@@ -273,6 +273,28 @@ they do not have their own this value to bind.
       strict mode does the strict checking of our js code and 
       give us priore warning and error so that we can maintain and debug
       error in intial time
+
+     for example
+      
+fuction here(){
+console.log(this)
+}
+
+here()
+//the output will be the construction or whole prototype object
+
+but if we use strictmode
+
+'use strict'
+fuction here(){
+console.log(this)
+}
+
+here()
+
+//the output will be the undefined
+
+
       */  
             
             
