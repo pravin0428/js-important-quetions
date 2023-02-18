@@ -269,7 +269,11 @@ they do not have their own this value to bind.
         //     This has one more approach given in the closures page
             
             
-        // - strict mode
+      /* strict mode : 
+      strict mode does the strict checking of our js code and 
+      give us priore warning and error so that we can maintain and debug
+      error in intial time
+      */  
             
             
         // - Recursion vs Iterative approach problem
