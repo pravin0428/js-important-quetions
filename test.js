@@ -397,5 +397,31 @@ so ues   :
 
 */
 
+//vowel web interview quetions
+
+/* 
+1)make a server without using express library
+ 
+ --so for making the server without express we can
+ make it using http module 
+
+  so lets code:
+
+  const http = require("http")
+  
+  const server = http.createServer(req , res) =>{
+    
+    res.status = 200
+    res.headers('Content-Type': 'text/plain')
+    res.end("hello")
+
+  }
+
+  server.listen(3000 , () => {
+    console.log(`listning on http://localhost:3000`)
+  })
+
+*/
+
 
  
