@@ -1,0 +1,97 @@
+1)Arithmatic operators
+ + , - , * , / , %
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2)Comparision operators
+  ==   ,   !=  ,  >  ,  <  ,  ===  , !== 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3)Logical operators
+ &&  ,  ||  , !
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4)Assignment operators 
+ =
+ ans their SHORT HAND operators
+
+ +=  ,  -=   , *=  ,  /=  , %=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5)unery operators 
+ 
+ ++
+
+ --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6)bitwise operators
+
+ &   ,   |   ,   ^   ,    <<  ,   >> 
