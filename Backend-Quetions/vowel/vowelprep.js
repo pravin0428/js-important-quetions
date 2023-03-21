@@ -74,6 +74,13 @@ one()
 // need to update all the quetions
 // .
 
+// some of the important backend quetions
+//http serve
+//what is node.js
+//mongodb agregation
+
+
+
 
 
 
