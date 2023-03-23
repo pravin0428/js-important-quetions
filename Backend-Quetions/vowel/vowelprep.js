@@ -71,6 +71,8 @@ function one(){
 }
 one()
 
+// need to update all the quetions
+// .
 
 
 
