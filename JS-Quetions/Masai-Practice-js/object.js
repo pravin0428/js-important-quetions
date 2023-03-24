@@ -1,11 +1,11 @@
 // q) new object quetion
 
-let Person = (property , bunch) =>{
-   return bunch.push(property)
-}
+// let Person = (property , bunch) =>{
+//    return bunch.push(property)
+// }
 
-let result = Person("apple" , ["banana"])
-console.log(result)
+// let result = Person("apple" , ["banana"])
+// console.log(result)
 
 // 2     ....ans
 
@@ -21,4 +21,17 @@ The result variable is assigned the value returned by the Person function when i
 
 So, the output of console.log(result) will be 2
 
+*/
+
+//new quetion on object
+
+let first = {name : "merry"  , age  : 23}
+let second = {name : "john" , ...first}
+console.log(second)  //{ name: 'merry', age: 23 }
+
+/* 
+Explaination
+Here, first is an object with two properties name and age. second is an object that has a name property with the value "john", and the properties of first object are copied to second object using the spread operator ....
+
+Therefore, the second object has two properties, name and age, with values "merry" and 23, respectively, as they are copied from the first object. Hence, the output of console.log(second) is { name: 'merry', age: 23 }.
 */
