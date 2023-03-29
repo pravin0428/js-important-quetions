@@ -7,3 +7,7 @@ for (let i = 0; i < 3; i++) {
 }
 
 // output : 0 1 2
+
+//in this example the everthing is streight forward
+//but if we use var instade of let then it will couse issue
+// which is comes under closure concept
